@@ -1,5 +1,5 @@
 # Awesome-UI-UX
-This repository contains projects, tutorials and tools with UI/UX Effects and Animations that I found to be awesome.
+This repository contains projects, tutorials, tools & resources with UI/UX Effects and Animations that are awesome.
 
 ## JavaScript, CSS, Sass
 ### Video Tutorials
@@ -15,17 +15,27 @@ This repository contains projects, tutorials and tools with UI/UX Effects and An
 - [Animating SVG with the Awesome GSAP 3.0](https://youtu.be/lj37QZ047f8) - [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
 
 ---
+### UI Tools/ Libraries
+- [Font Awesome](https://fontawesome.com/) - vector icons
 
-### Browser Animation Tools/ Libraries/ 
+### Browser Animation Tools/ Libraries
 - [GSAP](https://greensock.com/gsap/) - animates anything JavaScript can touch
+  - [Cheatsheet](https://greensock.com/cheatsheet/)
+
 ---
 
 ## Awesome content sites
-### Sites to find Awesome Animations 
-- [Lottie](https://lottiefiles.com/) 
 
 ### Sites to find Awesome Vector Illustrations 
 - [UnDraw](https://undraw.co/) 
+
+### Sites to find Awesome Animations 
+- [Lottie](https://lottiefiles.com/)
+
+### Sites to get free graphic-content for application UIs
+- [UnSplash](https://source.unsplash.com/) - High quality images (an API is available)
+- [Freepik](https://www.freepik.com/vectors/graphics) - Free Vector Graphics
+
 --- 
 
 ## UI/UX software 
