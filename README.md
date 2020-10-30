@@ -16,6 +16,16 @@ This repository contains projects, tutorials and tools with UI/UX Effects and An
 
 ---
 
-### Browser Animation Tools/ Libraries
+### Browser Animation Tools/ Libraries/ 
 - [GSAP](https://greensock.com/gsap/) - animates anything JavaScript can touch
+---
 
+## UI/UX software 
+
+### Prototyping software
+- [Figma](https://www.figma.com/)
+- [AdobeXD](https://www.adobe.com/products/xd.html) 
+
+### 2D Animations Software
+- [Rive](https://rive.app/)
+- [Adobe After Effects](https://www.adobe.com/products/aftereffects.html)
