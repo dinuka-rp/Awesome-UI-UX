@@ -20,6 +20,14 @@ This repository contains projects, tutorials and tools with UI/UX Effects and An
 - [GSAP](https://greensock.com/gsap/) - animates anything JavaScript can touch
 ---
 
+## Awesome content sites
+### Sites to find Awesome Animations 
+- [Lottie](https://lottiefiles.com/) 
+
+### Sites to find Awesome Vector Illustrations 
+- [UnDraw](https://undraw.co/) 
+--- 
+
 ## UI/UX software 
 
 ### Prototyping software
