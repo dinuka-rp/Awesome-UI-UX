@@ -6,6 +6,7 @@ This repository contains projects, tutorials, tools & resources with UI/UX Effec
 #### UI Video Tutorials
 - [Sass](https://youtu.be/Zz6eOVaaelI) - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
 - [Build a Modern Landing Page Website](https://youtu.be/X1dz0xRbSJc) - [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
+- [Animated Responsive Navbar](https://youtu.be/Zz6eOVaaelI) - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
 
 #### UX Video Tutorials
 
