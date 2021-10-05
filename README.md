@@ -31,6 +31,11 @@ This repository contains projects, tutorials, tools & resources with UI/UX Effec
 
 ### Sites to find Awesome Vector Illustrations 
 - [UnDraw](https://undraw.co/) 
+- [Blush](https://blush.design/) 
+- [Open Peeps](https://www.openpeeps.com/) 
+- [Humaaans](https://www.humaaans.com) 
+- [Sapiens Character Builder](https://sapiens.ui8.net/) 
+- [Skribbl](https://weareskribbl.com/) 
 
 ### Sites to find Awesome Animations 
 - [Lottie](https://lottiefiles.com/)
